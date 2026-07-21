@@ -1,0 +1,3 @@
+-Unified Modeling Language (UML) is a standardized visual language used to specify, design, and document software systems.
+-A Data Flow Diagram (DFD) visually maps out how information moves through a system.
+-An SRS (Software Requirements Specification) is a comprehensive document that defines exactly what a software system will build, how it should behave, and its design constraints.
